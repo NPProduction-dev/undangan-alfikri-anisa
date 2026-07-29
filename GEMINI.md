@@ -82,3 +82,8 @@ Digital Wedding Invitation (Undangan Pernikahan Digital) for **M. Alfikri & Anis
 - Created `.nojekyll` to bypass Jekyll static generator processing on GitHub Pages.
 - Created `.gitignore` to exclude system files and temporary logs.
 - Created `.github/workflows/deploy.yml` for automated GitHub Actions deployment to GitHub Pages upon pushing to the `main` branch.
+
+### [2026-07-29] Cover Subtitle Update (TASYAKURAN PERNIKAHAN)
+- Updated `index.html`:
+  - Replaced sub-heading `"THE WEDDING OF"` on the cover screen (`#cover-overlay`) with **`"TASYAKURAN PERNIKAHAN"`**.
+  - Updated `og:title` meta tag to `"Tasyakuran Pernikahan Alfikri & Anisa"`.

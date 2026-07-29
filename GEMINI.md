@@ -110,3 +110,7 @@ Digital Wedding Invitation (Undangan Pernikahan Digital) for **M. Alfikri & Anis
 ### [2026-07-29] Bismillah Calligraphy Added to Hero Section
 - Updated `index.html` and `css/style.css`:
   - Added elegant Arabic Bismillah calligraphy (`بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ`) in gold typography above the `"UNDANGAN PERNIKAHAN"` heading on the main hero section (`#sec-hero`).
+
+### [2026-07-29] Social Share Thumbnail (og:image) Update
+- Updated `index.html`:
+  - Changed `og:image` and `twitter:image` meta tags to `https://npproduction-dev.github.io/undangan-alfikri-anisa/assets/images/minang_couple_cover.jpg` so WhatsApp & social media link previews show the custom couple cover photo.

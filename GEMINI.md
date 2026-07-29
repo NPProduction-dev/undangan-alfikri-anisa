@@ -128,3 +128,7 @@ Digital Wedding Invitation (Undangan Pernikahan Digital) for **M. Alfikri & Anis
 ### [2026-07-29] Bismillah Calligraphy Alignment & Position Shift
 - Updated `css/style.css`:
   - Shifted Bismillah typography slightly upwards and centered it perfectly horizontally and vertically (`text-align: center; margin: -10px auto 8px auto; width: 100%;`).
+
+### [2026-07-29] Event Date Year (2026) Addition
+- Updated `index.html`:
+  - Added year **2026** to meta description tag, Hero Section date banner (`JUMAT, 28 AGUSTUS 2026`), Akad Nikah card (`Jumat, 28 Agustus 2026`), and Tasyakuran Pernikahan card (`Jumat, 28 Agustus 2026`).

@@ -124,3 +124,7 @@ Digital Wedding Invitation (Undangan Pernikahan Digital) for **M. Alfikri & Anis
 - Updated `index.html`:
   - Added time `08.00 WIB - Selesai` to Akad Nikah detail card.
   - Updated time to `13.30 WIB - Selesai` on Tasyakuran Pernikahan detail card.
+
+### [2026-07-29] Bismillah Calligraphy Alignment & Position Shift
+- Updated `css/style.css`:
+  - Shifted Bismillah typography slightly upwards and centered it perfectly horizontally and vertically (`text-align: center; margin: -10px auto 8px auto; width: 100%;`).

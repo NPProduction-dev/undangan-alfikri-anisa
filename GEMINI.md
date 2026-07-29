@@ -87,3 +87,8 @@ Digital Wedding Invitation (Undangan Pernikahan Digital) for **M. Alfikri & Anis
 - Updated `index.html`:
   - Replaced sub-heading `"THE WEDDING OF"` on the cover screen (`#cover-overlay`) with **`"TASYAKURAN PERNIKAHAN"`**.
   - Updated `og:title` meta tag to `"Tasyakuran Pernikahan Alfikri & Anisa"`.
+
+### [2026-07-29] Profile Parents Wording Update
+- Updated `index.html`:
+  - Changed groom profile wording from `"Putra Kedua dari"` to **`"Putra dari"`**.
+  - Changed bride profile wording from `"Putri Kedua dari"` to **`"Putri dari"`**.

@@ -106,3 +106,7 @@ Digital Wedding Invitation (Undangan Pernikahan Digital) for **M. Alfikri & Anis
 
 ### [2026-07-29] High-Res Custom Minang Couple Cover Photo Update
 - Replaced `assets/images/minang_couple_cover.jpg` with the uploaded high-resolution portrait of M. Alfikri & Anisa Rahmadini in full traditional Minang attire inside an ornate gold oval frame with Rumah Gadang background.
+
+### [2026-07-29] Bismillah Calligraphy Added to Hero Section
+- Updated `index.html` and `css/style.css`:
+  - Added elegant Arabic Bismillah calligraphy (`بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ`) in gold typography above the `"UNDANGAN PERNIKAHAN"` heading on the main hero section (`#sec-hero`).

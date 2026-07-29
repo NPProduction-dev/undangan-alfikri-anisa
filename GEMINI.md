@@ -115,3 +115,7 @@ Digital Wedding Invitation (Undangan Pernikahan Digital) for **M. Alfikri & Anis
 - Updated `index.html`:
   - Changed `og:image` and `twitter:image` meta tags to `https://npproduction-dev.github.io/undangan-alfikri-anisa/assets/images/minang_couple_cover.jpg` so WhatsApp & social media link previews show the custom couple cover photo.
   - Replaced `assets/images/minang_couple.png` file with `minang_couple_cover.jpg` so even cached WhatsApp queries fetch the new photo.
+
+### [2026-07-29] Postal Code (26253) Removal
+- Updated `index.html`:
+  - Removed postal code `"26253"` from groom profile address box, Akad Nikah address, and Tasyakuran Pernikahan address.

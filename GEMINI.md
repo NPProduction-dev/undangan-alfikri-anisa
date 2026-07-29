@@ -103,3 +103,6 @@ Digital Wedding Invitation (Undangan Pernikahan Digital) for **M. Alfikri & Anis
   - Groom address updated to: `"Jalan Raya Padang Jopang, Kelurahan Tujuah Koto Talago, Kecamatan Guguak, Kabupaten Lima Puluh Kota, Sumatera Barat 26253"`.
   - Bride address updated to: `"Jalan Tuanku Nan Biru, Jorong Ampang Godang, Kelurahan Tujuah Koto Talago, Kecamatan Guguak, Kabupaten Lima Puluah Kota, Sumatera Barat"`.
   - Updated Google Maps link for Tasyakuran Pernikahan location to query the new groom address.
+
+### [2026-07-29] High-Res Custom Minang Couple Cover Photo Update
+- Replaced `assets/images/minang_couple_cover.jpg` with the uploaded high-resolution portrait of M. Alfikri & Anisa Rahmadini in full traditional Minang attire inside an ornate gold oval frame with Rumah Gadang background.

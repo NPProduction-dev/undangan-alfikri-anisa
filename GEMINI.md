@@ -101,5 +101,5 @@ Digital Wedding Invitation (Undangan Pernikahan Digital) for **M. Alfikri & Anis
 ### [2026-07-29] Exact Bride & Groom Address Update
 - Updated `index.html`:
   - Groom address updated to: `"Jalan Raya Padang Jopang, Kelurahan Tujuah Koto Talago, Kecamatan Guguak, Kabupaten Lima Puluh Kota, Sumatera Barat 26253"`.
-  - Bride address updated to: `"VII Koto Talago, Kec. Guguak, Kabupaten Lima Puluh Kota, Sumatera Barat 26253"`.
+  - Bride address updated to: `"Jalan Tuanku Nan Biru, Jorong Ampang Godang, Kelurahan Tujuah Koto Talago, Kecamatan Guguak, Kabupaten Lima Puluah Kota, Sumatera Barat"`.
   - Updated Google Maps link for Tasyakuran Pernikahan location to query the new groom address.

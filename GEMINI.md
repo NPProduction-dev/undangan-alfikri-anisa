@@ -97,3 +97,9 @@ Digital Wedding Invitation (Undangan Pernikahan Digital) for **M. Alfikri & Anis
 - Updated `index.html`:
   - Removed Google Plus Code `"VGQP+RHW, "` from groom profile address box and Tasyakuran Pernikahan address detail.
   - Removed Google Plus Code `"VG8W+MH8, "` from Akad Nikah address detail.
+
+### [2026-07-29] Exact Bride & Groom Address Update
+- Updated `index.html`:
+  - Groom address updated to: `"Jalan Raya Padang Jopang, Kelurahan Tujuah Koto Talago, Kecamatan Guguak, Kabupaten Lima Puluh Kota, Sumatera Barat 26253"`.
+  - Bride address updated to: `"VII Koto Talago, Kec. Guguak, Kabupaten Lima Puluh Kota, Sumatera Barat 26253"`.
+  - Updated Google Maps link for Tasyakuran Pernikahan location to query the new groom address.

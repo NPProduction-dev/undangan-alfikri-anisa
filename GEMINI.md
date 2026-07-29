@@ -119,3 +119,8 @@ Digital Wedding Invitation (Undangan Pernikahan Digital) for **M. Alfikri & Anis
 ### [2026-07-29] Postal Code (26253) Removal
 - Updated `index.html`:
   - Removed postal code `"26253"` from groom profile address box, Akad Nikah address, and Tasyakuran Pernikahan address.
+
+### [2026-07-29] Event Schedule Times Update
+- Updated `index.html`:
+  - Added time `08.00 WIB - Selesai` to Akad Nikah detail card.
+  - Updated time to `13.30 WIB - Selesai` on Tasyakuran Pernikahan detail card.

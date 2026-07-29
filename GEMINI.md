@@ -92,3 +92,8 @@ Digital Wedding Invitation (Undangan Pernikahan Digital) for **M. Alfikri & Anis
 - Updated `index.html`:
   - Changed groom profile wording from `"Putra Kedua dari"` to **`"Putra dari"`**.
   - Changed bride profile wording from `"Putri Kedua dari"` to **`"Putri dari"`**.
+
+### [2026-07-29] Address Plus Code Cleanup
+- Updated `index.html`:
+  - Removed Google Plus Code `"VGQP+RHW, "` from groom profile address box and Tasyakuran Pernikahan address detail.
+  - Removed Google Plus Code `"VG8W+MH8, "` from Akad Nikah address detail.

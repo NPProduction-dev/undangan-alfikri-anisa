@@ -132,3 +132,9 @@ Digital Wedding Invitation (Undangan Pernikahan Digital) for **M. Alfikri & Anis
 ### [2026-07-29] Event Date Year (2026) Addition
 - Updated `index.html`:
   - Added year **2026** to meta description tag, Hero Section date banner (`JUMAT, 28 AGUSTUS 2026`), Akad Nikah card (`Jumat, 28 Agustus 2026`), and Tasyakuran Pernikahan card (`Jumat, 28 Agustus 2026`).
+
+### [2026-07-30] Groom Address Update (Added Jorong)
+- Updated `index.html`:
+  - Updated groom address in profile card and Tasyakuran Pernikahan section to: **`"Jalan Raya Jorong Padang Jopang, Kelurahan Tujuah Koto Talago, Kecamatan Guguak, Kabupaten Lima Puluh Kota, Sumatera Barat"`**.
+  - Updated Google Maps link for Tasyakuran Pernikahan location accordingly.
+

@@ -138,3 +138,8 @@ Digital Wedding Invitation (Undangan Pernikahan Digital) for **M. Alfikri & Anis
   - Updated groom address in profile card and Tasyakuran Pernikahan section to: **`"Jalan Raya Jorong Padang Jopang, Kelurahan Tujuah Koto Talago, Kecamatan Guguak, Kabupaten Lima Puluh Kota, Sumatera Barat"`**.
   - Updated Google Maps link for Tasyakuran Pernikahan location accordingly.
 
+### [2026-07-31] Village Designation Wording Update (Kenagarian Tujuah Koto Talago)
+- Updated `index.html`:
+  - Replaced all occurrences of `"Kelurahan Tujuah Koto Talago"` with **`"Kenagarian Tujuah Koto Talago"`** across groom profile address, bride profile address, Tasyakuran Pernikahan event location address, and Google Maps location query URL.
+
+

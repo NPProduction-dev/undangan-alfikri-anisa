@@ -16,12 +16,13 @@ document.addEventListener('DOMContentLoaded', () => {
 /* 1. Dynamic URL Guest Parameter Parser */
 function initURLParams() {
   const urlParams = new URLSearchParams(window.location.search);
-  const guestName = urlParams.get('kpd') || urlParams.get('to') || urlParams.get('guest');
+  const rawName = urlParams.get('kpd') || urlParams.get('to') || urlParams.get('guest');
   const guestDisplay = document.getElementById('guest-name-display');
   
   if (guestDisplay) {
-    if (guestName && guestName.trim() !== '') {
-      guestDisplay.textContent = decodeURIComponent(guestName.trim());
+    if (rawName && rawName.trim() !== '') {
+      const decodedName = decodeURIComponent(rawName.trim().replace(/\+/g, ' '));
+      guestDisplay.textContent = decodedName;
     } else {
       guestDisplay.textContent = 'Bapak/Ibu/Saudara/i';
     }

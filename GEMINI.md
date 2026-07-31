@@ -143,5 +143,10 @@ Digital Wedding Invitation (Undangan Pernikahan Digital) for **M. Alfikri & Anis
   - Replaced all occurrences of `"Kelurahan Tujuah Koto Talago"` with **`"Kenagarian Tujuah Koto Talago"`** across groom profile address, bride profile address, Tasyakuran Pernikahan event location address, and Google Maps location query URL.
 - Committed and pushed latest changes to GitHub repository (`main` branch) for live deployment on GitHub Pages.
 
+### [2026-07-31] Guest URL Parameter WhatsApp Link Formatting Fix
+- Updated `js/app.js`:
+  - Enhanced `initURLParams()` to replace `+` signs with spaces before `decodeURIComponent`, ensuring both `%20` and `+` URL encodings parse smoothly into full guest names on the invitation screen.
+
+
 
 
